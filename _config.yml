@@ -1,0 +1,38 @@
+# Site Settings ---------------------------------------------------------------
+
+title: Kylie Gorney
+author:
+  name: Kylie Gorney
+  email: kgorney@wisc.edu
+  social:
+    email: kgorney@wisc.edu
+    github: kyliegorney
+    linkedin: kyliegorney
+
+permalink: /:year/:month/:day/:title/
+
+hydejack:
+  no_mark_external: true
+  no_page_style: true
+
+# Theme Settings --------------------------------------------------------------
+
+remote_theme: hydecorp/hydejack
+
+logo: /assets/img/headshot.jpg
+accent_image: /assets/img/sidebar.jpg
+accent_color: rgb(135,206,235)
+
+menu:
+  - title: Curriculum Vitae
+    url: /assets/files/curriculum-vitae.pdf
+  - title: Presentations
+    url: /presentations/
+
+collections:
+  featured_categories:
+    permalink: /:name/
+    output: true
+  featured_tags:
+    permalink: /tags/:name/
+    output: true
