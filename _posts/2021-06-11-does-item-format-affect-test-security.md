@@ -7,6 +7,9 @@ tags:
   - discrete-option-multiple-choice
   - item-preknowledge
   - test-security
+related_posts:
+  - _posts/2020-07-15-a-bayesian-analysis-of-item-format-and-test-security.md
+  - _posts/2019-11-08-the-impact-of-item-format-on-test-security.md
 ---
 
 ## Abstract

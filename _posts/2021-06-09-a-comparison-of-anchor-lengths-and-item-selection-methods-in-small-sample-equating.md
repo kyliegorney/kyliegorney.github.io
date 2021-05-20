@@ -6,6 +6,8 @@ categories:
 tags:
   - anchor-test
   - small-sample-equating
+related_posts:
+  - _posts/2021-06-09-when-to-use-synthetic-linking-functions-in-small-sample-equating.md
 ---
 
 ## Abstract

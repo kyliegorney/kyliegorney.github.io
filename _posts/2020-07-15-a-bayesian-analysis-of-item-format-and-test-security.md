@@ -8,6 +8,9 @@ tags:
   - discrete-option-multiple-choice
   - item-preknowledge
   - test-security
+related_posts:
+  - _posts/2021-06-11-does-item-format-affect-test-security.md
+  - _posts/2019-11-08-the-impact-of-item-format-on-test-security.md
 ---
 
 ## Abstract

@@ -6,6 +6,8 @@ categories:
 tags:
   - small-sample-equating
   - synthetic-equating
+related_posts:
+  - _posts/2021-06-09-a-comparison-of-anchor-lengths-and-item-selection-methods-in-small-sample-equating.md
 ---
 
 ## Abstract
