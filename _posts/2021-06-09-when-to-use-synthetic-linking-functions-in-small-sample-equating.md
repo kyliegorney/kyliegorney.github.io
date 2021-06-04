@@ -15,7 +15,7 @@ In small-sample equating, a synthetic linking function may be used to reduce ran
 equating may be preferable when the sample size is 25 or smaller and when it is known that the test forms do not differ markedly in difficulty. In all other cases, however, it is recommended that traditional equating functions be used.
 
 ## Citation
-Gorney, K. N. (2021, May 18--June 11). *When to use synthetic linking functions in small-sample equating* [Paper presentation]. National Council on Measurement in Education (NCME) Annual Meeting, Virtual. 
+Gorney, K. N. (2021, June 8--11). *When to use synthetic linking functions in small-sample equating* [Paper presentation]. National Council on Measurement in Education (NCME) Annual Meeting, Virtual. 
 
 ## Resources
 <a href="/assets/files/when-to-use-synthetic-linking-functions-in-small-sample-equating/ncme-2021-paper.pdf" target="_blank">Paper</a>
