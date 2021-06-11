@@ -18,4 +18,4 @@ equating may be preferable when the sample size is 25 or smaller and when it is 
 Gorney, K. N. (2021, June 8--11). *When to use synthetic linking functions in small-sample equating* [Paper presentation]. National Council on Measurement in Education (NCME) Annual Meeting, Virtual. 
 
 ## Resources
-<a href="/assets/files/when-to-use-synthetic-linking-functions-in-small-sample-equating/ncme-2021-paper.pdf" target="_blank">Paper</a>
+<a href="/assets/files/when-to-use-synthetic-linking-functions-in-small-sample-equating/ncme-2021-paper.pdf" target="_blank">Paper</a>, <a href="/assets/files/when-to-use-synthetic-linking-functions-in-small-sample-equating/ncme-2021-slides.pdf" target="_blank">Slides</a>

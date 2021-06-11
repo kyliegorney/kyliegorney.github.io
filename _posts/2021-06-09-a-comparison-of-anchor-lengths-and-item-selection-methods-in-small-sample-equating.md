@@ -17,4 +17,4 @@ Two factors known to affect the quality of an equating anchor are length and ite
 Gorney, K. N. (2021, June 8--11). *A comparison of anchor lengths and item selection methods in small-sample equating* [Paper presentation]. National Council on Measurement in Education (NCME) Annual Meeting, Virtual. 
 
 ## Resources
-<a href="/assets/files/a-comparison-of-anchor-lengths-and-item-selection-methods-in-small-sample-equating/ncme-2021-paper.pdf" target="_blank">Paper</a>
+<a href="/assets/files/a-comparison-of-anchor-lengths-and-item-selection-methods-in-small-sample-equating/ncme-2021-paper.pdf" target="_blank">Paper</a>, <a href="/assets/files/a-comparison-of-anchor-lengths-and-item-selection-methods-in-small-sample-equating/ncme-2021-slides.pdf" target="_blank">Slides</a>

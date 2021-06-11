@@ -19,4 +19,4 @@ Unlike the traditional multiple-choice (MC) format, the discrete-option multiple
 Gorney, K. N., & Wollack, J. A. (2021, June 8--11). *Does item format affect test security?* [Paper presentation]. National Council on Measurement in Education (NCME) Annual Meeting, Virtual. 
 
 ## Resources
-<a href="/assets/files/does-item-format-affect-test-security/ncme-2021-paper.pdf" target="_blank">Paper</a>
+<a href="/assets/files/does-item-format-affect-test-security/ncme-2021-paper.pdf" target="_blank">Paper</a>, <a href="/assets/files/does-item-format-affect-test-security/ncme-2021-slides.pdf" target="_blank">Slides</a>
