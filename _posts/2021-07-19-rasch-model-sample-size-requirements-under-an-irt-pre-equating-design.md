@@ -7,6 +7,9 @@ tags:
   - rasch-model
   - parameter-estimation
   - irt-pre-equating
+related_posts:
+  - _posts/2021-06-09-a-comparison-of-anchor-lengths-and-item-selection-methods-in-small-sample-equating.md
+  - _posts/2021-06-09-when-to-use-synthetic-linking-functions-in-small-sample-equating.md
 ---
 
 ## Abstract
